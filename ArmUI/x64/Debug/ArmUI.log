@@ -1,0 +1,24 @@
+﻿  main.cpp
+D:\JHCP\UTFPR\ELE64\Software\ArmUI\header\quaternion.h(61,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\JHCP\UTFPR\ELE64\Software\ArmUI\header\quaternion.h(62,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\JHCP\UTFPR\ELE64\Software\ArmUI\header\quaternion.h(63,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\JHCP\UTFPR\ELE64\Software\ArmUI\header\quaternion.h(64,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\JHCP\UTFPR\ELE64\Software\ArmUI\header\quaternion.h(65,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\JHCP\UTFPR\ELE64\Software\ArmUI\header\quaternion.h(66,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\JHCP\UTFPR\ELE64\Software\ArmUI\header\quaternion.h(68,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\JHCP\UTFPR\ELE64\Software\ArmUI\header\quaternion.h(69,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\JHCP\UTFPR\ELE64\Software\ArmUI\header\quaternion.h(70,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\JHCP\UTFPR\ELE64\Software\ArmUI\src\main.cpp(284,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\JHCP\UTFPR\ELE64\Software\ArmUI\src\main.cpp(285,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  quaternion.cpp
+D:\JHCP\UTFPR\ELE64\Software\ArmUI\header\quaternion.h(61,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\JHCP\UTFPR\ELE64\Software\ArmUI\header\quaternion.h(62,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\JHCP\UTFPR\ELE64\Software\ArmUI\header\quaternion.h(63,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\JHCP\UTFPR\ELE64\Software\ArmUI\header\quaternion.h(64,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\JHCP\UTFPR\ELE64\Software\ArmUI\header\quaternion.h(65,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\JHCP\UTFPR\ELE64\Software\ArmUI\header\quaternion.h(66,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\JHCP\UTFPR\ELE64\Software\ArmUI\header\quaternion.h(68,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\JHCP\UTFPR\ELE64\Software\ArmUI\header\quaternion.h(69,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\JHCP\UTFPR\ELE64\Software\ArmUI\header\quaternion.h(70,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  ArmUI.vcxproj -> D:\JHCP\UTFPR\ELE64\Software\ArmUI\x64\Debug\ArmUI.exe
